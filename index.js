@@ -1,5 +1,6 @@
-import hello from './hello';
-
-export {
-  hello
+function helloNpm() {
+  console.log('Hello Package')
+  return "hello NPM"
 }
+
+helloNpm()

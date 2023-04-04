@@ -1,5 +1,5 @@
 {
-  "name": "test-package",
+  "name": "@premio/test-package",
   "version": "1.0.0",
   "description": "test package for publishing into npm",
   "main": "index.js",
